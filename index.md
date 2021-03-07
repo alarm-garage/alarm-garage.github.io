@@ -14,7 +14,7 @@ Because I didn't found any existing device, I decided to use my expert skill in 
 ## Implementation
 
 The project has three parts:
-* [Garage module][/alarm-garage] - the device existing in the garage
-* [Server module][/alarm-garage-server] - server app which handles reports from the _garage mmodule_
-* [Remote module][/alarm-garage-remote] - remote handle which toggles "armed" state of _garage module_
+* [Garage module][/module-main] - the device existing in the garage
+* [Server module][/module-server] - server app which handles reports from the _garage mmodule_
+* [Remote module][/module-remote] - remote handle which toggles "armed" state of _garage module_
 

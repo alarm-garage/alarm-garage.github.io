@@ -1,0 +1,9 @@
+[submodule "repo-main"]
+	path = repo-main
+	url = git@github.com:alarm-garage/alarm-garage.git
+[submodule "repo-server"]
+	path = repo-server
+	url = git@github.com:alarm-garage/alarm-garage-server.git
+[submodule "repo-remote"]
+	path = repo-remote
+	url = git@github.com:alarm-garage/alarm-garage-remote.git
